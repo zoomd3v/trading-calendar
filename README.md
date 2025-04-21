@@ -2,7 +2,7 @@
 
 A sleek, interactive trading journal that helps you track your daily profits, losses, and trading performance over time.
 
-![Trading Calendar](https://zoomd3v.github.io/trading-calendar
+
 
 Trading Calendar is a minimalist web-based application designed for traders who want to keep track of their trading performance. Built with vanilla JavaScript, HTML, and CSS, this application offers a clean, intuitive interface for recording and visualizing your trading journey without any installation required.
 
